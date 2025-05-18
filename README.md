@@ -1,5 +1,4 @@
-getgenv().Config = {
-    Box = {
+Box = {
         Enable = true,
         Type = 'Full', -- Corner
         Font = 'SourceSans', -- Using default Roblox font
